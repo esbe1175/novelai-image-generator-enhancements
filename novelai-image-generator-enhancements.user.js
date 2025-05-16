@@ -3,12 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.1
 // @description  Enhancements for NovelAI image generator: A1111->NovelAI syntax button, Reference Strength slider patch, and more.
-// @author       OpenAI
+// @author       Archon
 // @match        https://novelai.net/image*
 // @grant        none
 // @license MIT
-// @downloadURL https://update.greasyfork.org/scripts/535979/NovelAI%20Image%20Generator%20Enhancements.user.js
-// @updateURL https://update.greasyfork.org/scripts/535979/NovelAI%20Image%20Generator%20Enhancements.meta.js
 // ==/UserScript==
 
 (function() {
